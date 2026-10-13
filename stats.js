@@ -11,8 +11,22 @@ module.exports = async function runStatsExtractor(page) {
 
   // ✅ ENTER ALL CLUB URLs HERE
   const clubUrls = [
-    //"https://v3.g.ladypopular.com/guilds.php?id=1221", //Loyalty
-    "https://v3.g.ladypopular.com/guilds.php?id=2836",
+    "https://v3.g.ladypopular.com/guilds.php?id=1008",
+    "https://v3.g.ladypopular.com/guilds.php?id=792",
+    "https://v3.g.ladypopular.com/guilds.php?id=3183",
+    "https://v3.g.ladypopular.com/guilds.php?id=2203",
+    "https://v3.g.ladypopular.com/guilds.php?id=615",
+    "https://v3.g.ladypopular.com/guilds.php?id=4585",
+    "https://v3.g.ladypopular.com/guilds.php?id=2979",
+    "https://v3.g.ladypopular.com/guilds.php?id=3711",
+    "https://v3.g.ladypopular.com/guilds.php?id=636",
+    "https://v3.g.ladypopular.com/guilds.php?id=3143",
+    "https://v3.g.ladypopular.com/guilds.php?id=1066",
+    "https://v3.g.ladypopular.com/guilds.php?id=148",
+    "https://v3.g.ladypopular.com/guilds.php?id=967",
+    "https://v3.g.ladypopular.com/guilds.php?id=2229",
+    "https://v3.g.ladypopular.com/guilds.php?id=14",
+    "https://v3.g.ladypopular.com/guilds.php?id=530",
     // add up to 7 (or more)
   ];
 
